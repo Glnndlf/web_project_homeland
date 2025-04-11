@@ -19,5 +19,4 @@ CSS
 
 # Enlace a Github
 
-https://github.com/Glnndlf/web_project_homeland/
-
+ https://glnndlf.github.io/web_project_homeland/
